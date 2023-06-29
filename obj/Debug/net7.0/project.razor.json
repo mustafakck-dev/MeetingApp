@@ -18643,6 +18643,27 @@
     "CSharpLanguageVersion": 1100
   },
   "RootNamespace": "MeetingApp",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Meeting/List.cshtml",
+      "TargetPath": "Views\\Meeting\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Meeting/Index.cshtml",
+      "TargetPath": "Views\\Meeting\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Meeting/Apply.cshtml",
+      "TargetPath": "Views\\Meeting\\Apply.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }
