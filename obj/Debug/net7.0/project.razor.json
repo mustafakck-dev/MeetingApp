@@ -18650,6 +18650,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Shared/_Layout2.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18657,6 +18667,16 @@
     {
       "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Meeting/Index.cshtml",
       "TargetPath": "Views\\Meeting\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/MeetingApp/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
