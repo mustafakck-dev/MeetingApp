@@ -1,17 +1,31 @@
 # MeetingApp
 
-This project is an ASP.NET Core MVC application developed as part of my learning process.
+This project is an ASP.NET Core MVC web application developed as part of my learning process.  
+It focuses on understanding MVC architecture, form handling, and server-side rendering using Razor.
 
-## Features
-- Meeting management structure
-- MVC architecture
-- Validation support
-- Client-side packages
+---
 
-## Technologies
+##  Features
+
+- Meeting information display (date, location, participant count)
+- Participation application form (name, email, phone, attendance status)
+- Form validation using ModelState
+- Result/thank you page based on user response
+- Participant list with attendance status
+- Participant detail view
+- In-memory data storage (static repository)
+
+---
+
+## Technologies Used
+
 - ASP.NET Core MVC
-- C#
-- HTML / CSS / Bootstrap
+- C# (.NET)
+- Razor Views (.cshtml)
+- Bootstrap 5
+- HTML / CSS
+- LibMan (Library Manager)
 
-## Purpose
-This project was developed to practice the ASP.NET Core MVC structure and form-based application development.
+---
+
+##  Project Structure
