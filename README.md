@@ -1,7 +1,17 @@
-## About
+# MeetingApp
 
-This project was developed as part of a software development course.
+This project is an ASP.NET Core MVC application developed as part of my learning process.
 
-Instructor: [Sadık Turan]
+## Features
+- Meeting management structure
+- MVC architecture
+- Validation support
+- Client-side packages
 
-The project has been modified and improved for learning purposes.
+## Technologies
+- ASP.NET Core MVC
+- C#
+- HTML / CSS / Bootstrap
+
+## Purpose
+This project was developed to practice the ASP.NET Core MVC structure and form-based application development.
